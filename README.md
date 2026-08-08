@@ -1,6 +1,5 @@
 # 🏥 视频人数统计工具
-
-> 为医院候诊室患者视频设计的 Windows 桌面软件：批量导入 MP4 视频，AI 自动识别画面人数，按人数多选筛选，一键导出。
+> 日常运营需每日拍摄医院人流量视频，每月产出 200 + 条素材用于朋友圈宣传推送。因公司共享盘存储空间不足，被要求人工剔除人流量偏少的视频，手动逐条筛查耗时低效，遂用deepseek开发本本地自动筛选工具。可以批量导入 MP4 视频，AI 自动识别画面人数，按人数多选筛选，一键导出。
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 ![Python](https://img.shields.io/badge/Python-3.12-green)
