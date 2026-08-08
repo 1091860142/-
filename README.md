@@ -22,9 +22,9 @@
 
 > 点击下方链接下载最新版可执行文件（无需安装 Python）：
 
-### [⬇️ 下载 视频人数统计.exe](../../releases/latest)
+### [⬇️ 下载 video-people-counter.exe](../../releases/latest)
 
-下载后双击 `视频人数统计.exe` 即可运行。首次运行会自动下载 AI 模型（约 6MB），需要联网；之后完全离线使用。
+下载后双击 `video-people-counter.exe` 即可运行。首次运行会自动下载 AI 模型（约 6MB），需要联网；之后完全离线使用。
 
 ---
 
