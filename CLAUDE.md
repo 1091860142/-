@@ -14,7 +14,7 @@
 | 设计规范 | [docs/design-spec.md](docs/design-spec.md) | UI 布局、配色、交互逻辑 |
 | 执行计划 | [docs/execution-plan.md](docs/execution-plan.md) | 分阶段执行步骤和验收标准 |
 | 开发日志 | [dev-logs/](dev-logs/) | 每日开发日志（按日期命名） |
-| 计划文件 | 本地开发计划文件 | 总体开发规划 |
+| 开发计划 | [docs/execution-plan.md](docs/execution-plan.md) | 总体开发规划 |
 
 ## 工作规范
 
@@ -28,7 +28,7 @@
 - 一个阶段一个阶段来，每阶段通过验收再进下一阶段
 - 先保证底层模块正确，再开发 UI
 - 保持代码简洁，注释用中文
-- 优先使用 `本地脚本目录` 目录下的 PowerShell
+- 优先使用本地脚本目录下的 PowerShell
 
 ### 阶段顺序
 0. 环境搭建 → 1. 视频处理模块 → 2. 人体检测模块 → 3. UI 界面 → 4. 串联集成 → 5. 打包收尾
@@ -40,7 +40,7 @@
 ## 项目结构
 
 ```
-项目根目录
+video-people-counter/
 ├── CLAUDE.md                  # 本文件 — AI 助手项目指引
 ├── docs/                      # 项目标准文档
 │   ├── requirements.md        # 需求文档
